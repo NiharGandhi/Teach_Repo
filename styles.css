@@ -1,0 +1,26 @@
+.parent-div {
+    font-size: 120%;
+    font-weight: 700;
+    font-family: "Times New Roman", Times, serif;
+    padding: 1%;
+}
+.parent-div h1, p {
+    color: brown;
+}
+.second-div {
+    padding: auto;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+/* For class */
+.input {
+    border-color: brown;
+}
+
+/* For ID, keep last option */
+/* #firstInput {x
+    border-color: chocolate;
+} */
